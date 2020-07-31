@@ -1,5 +1,7 @@
 ### Welcome/Bienvenido/Benvingut! 👋
 
+My name is David and I'm a Front End Developer with years of experience and knloge on my back that still enjoys coding and learning a new thing every day, I love to work with smart people. Please, feel free to contact me with questions, requests or just to say hi! 👋
+
 - 🔭 I’m currently working on Personal projects such as:
   * [HTML Elements](https://github.com/dhpar/HTML-Elements).
   * [Portfolio Framework](https://github.com/dhpar/portfolioFramework).
