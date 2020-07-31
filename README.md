@@ -8,7 +8,7 @@
 - 🤔 I’m looking for help with 
 - 💬 Ask me about **Javascript, CSS, Jquery (Ei, is old but is all over :P), React, Webpack, Gulp, Grunt, a bit of Node,... (probably I'm forgeting something).**
 - 📫 How to reach me: through email at **davhern@gmail.com** or on Twitter through **@davhern1**
-- 😄 Pronouns: Him/he.
+- 😄 Pronouns: he/him/his.
 - ⚡ Fun fact: I can curl my tonge.
 
 <!--
