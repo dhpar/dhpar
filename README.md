@@ -10,7 +10,6 @@ My name is David and I'm a Front End Developer with years of experience and know
 - 💬 Ask me about **Javascript, CSS, Jquery (Ei, is old but is all over :P), React, Webpack, Gulp, Grunt, a bit of Node,... (probably I'm forgetting something).**
 - 📫 How to reach me: through email at **davhern@gmail.com** or on Twitter through **@davhern1**
 - 😄 Pronouns: he/him/his.
-- ⚡ Fun fact: I can curl my tongue.
 
 <!--
 **dhpar/dhpar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
