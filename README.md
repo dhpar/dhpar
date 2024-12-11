@@ -1,21 +1,32 @@
-### Welcome / Bienvenido / Benvingut! 👋
+# Welcome / Bienvenido / Benvingut! 👋
 
-My name is David and I'm a Front End Developer with years of experience and knowledge on my back that still enjoys coding and learning a new thing every day, I love to work with smart people. Please, feel free to contact me with questions, requests or just to say hi! 👋
+My name is David and I'm a Front End Developer with many years of experience and knowledge on my back that still enjoys coding and learning a new thing every day. I love to work with smart people and learning as much as I can from them. 
 
-- 📫 How to reach me:
+I’m looking to collaborate on **Open Sourced projects, companies, individuals, ... I'll be glad to answer any question you might have!**.
+
+Please, feel free to contact me with questions, requests or just to say hi! 👋
+  
+## How to reach me
   - Email - [davhern@gmail.com](mailto:davhern@gmail.com).
   - Linkedin - [https://www.linkedin.com/in/davidhparramon/](https://www.linkedin.com/in/davidhparramon/).
-- 🌱 Proficient in:
+    
+## Skills
+I have profesional experience in:
   - Typescript.
   - React.
   - Next.
   - Gatsby.
   - Javascript.
   - Graphql
-  - and Working on my Python. 
-- 👯 I’m looking to collaborate on **Open Sourced projects, companies, individuals, ... I'll be glad to answer any question you might have!**.
-- :man: Pronouns: he/him/his.
-- 🔭 I’m currently working on Personal projects such as:
+  
+...And I'm Working on improving my knowlege on...
+  - LLMs
+  - Python
+  - Cloud (such as GCM or AWS)
+  - Docker
+
+## Currently working on
+Some personal projects such as
   - [HTML Elements](https://github.com/dhpar/HTML-Elements).
   - [Portfolio Framework](https://github.com/dhpar/portfolioFramework).
 
