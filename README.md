@@ -14,7 +14,7 @@ My name is David and I'm a Front End Developer with years of experience and know
   - Graphql
   - and Working on my Python. 
 - 👯 I’m looking to collaborate on **Open Sourced projects, companies, individuals, ... I'll be glad to answer any question you might have!**.
-- 😄 Pronouns: he/him/his.
+- :man: Pronouns: he/him/his.
 - 🔭 I’m currently working on Personal projects such as:
   - [HTML Elements](https://github.com/dhpar/HTML-Elements).
   - [Portfolio Framework](https://github.com/dhpar/portfolioFramework).
