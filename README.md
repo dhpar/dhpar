@@ -20,10 +20,11 @@ I have profesional experience in:
   - Graphql
   
 ...And I'm Working on improving my knowlege on...
-  - LLMs
-  - Python
-  - Cloud (such as GCM or AWS)
-  - Docker
+  - LLMs.
+  - Python.
+  - Cloud (such as GCM or AWS).
+  - Docker.
+  - Drupal.
 
 ## Currently working on
 Some personal projects such as
