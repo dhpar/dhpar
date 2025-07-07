@@ -12,19 +12,19 @@ Please, feel free to contact me with questions, requests or just to say hi! 👋
     
 ## Skills
 I have profesional experience in:
-  - Typescript.
-  - React.
-  - Next.
-  - Gatsby.
-  - Javascript.
+  - Typescript
+  - React
+  - Next
+  - Gatsby
+  - Javascript
   - Graphql
   
-...And I'm Working on improving my knowlege on...
-  - LLMs.
-  - Python.
-  - Cloud (such as GCM or AWS).
-  - Docker.
-  - Drupal.
+...And I'm working on improving my knowlege on...
+  - LLMs
+  - Python
+  - Cloud (such as GCM or AWS)
+  - Docker
+  - Drupal
 
 ## Currently working on
 Some personal projects such as
