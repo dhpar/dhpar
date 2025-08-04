@@ -28,9 +28,9 @@ I have profesional experience in:
 
 ## Currently working on
 Some personal projects such as
-  - [Exit Rputine](https://github.com/dhpar/exitroutine).
-  - [HTML Elements](https://github.com/dhpar/HTML-Elements).
-  - [Portfolio Framework](https://github.com/dhpar/portfolioFramework).
+  - [Exit Rputine](https://github.com/dhpar/exitroutine)
+  - [HTML Elements](https://github.com/dhpar/HTML-Elements)
+  - [Portfolio Framework](https://github.com/dhpar/portfolioFramework)
 
 <!--
 **dhpar/dhpar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
