@@ -18,13 +18,13 @@ I have profesional experience in:
   - Gatsby
   - Javascript
   - Graphql
-  
-...And I'm working on improving my knowlege on...
-  - LLMs
   - Python
-  - Cloud (such as GCM or AWS)
-  - Docker
   - Drupal
+
+...And I'm working on improving my knowlege on...
+  - LLMs, Agents, Automatation, RAG, ...
+  - Cloud
+  - Docker
 
 ## Currently working on
 Some personal projects such as
