@@ -1,48 +1,48 @@
 # Welcome / Bienvenido / Benvingut! 👋
 
-My name is David and I'm a Full-stack developer with AI experience and focus on Front end, with many years of experience and knowledge on my back that still enjoys coding and learning a new thing every day. I love to work with smart people and learning as much as I can from them. 
+I'm **David**, a Senior Full-Stack Developer based in Edina, MN — with 10+ years of experience building React/Next.js applications, scalable SaaS products, and complex UI systems across the USA and EU markets.
 
-I’m looking to collaborate on **Open Sourced projects, companies, individuals, ... I'll be glad to answer any question you might have!**.
+Lately I've been going deep on **AI integrations, local-first architecture, and Python backend development** — building real tools, not just tutorials.
 
-Please, feel free to contact me with questions, requests or just to say hi! 👋
-  
-## How to reach me
-  - Email - [davhern@gmail.com](mailto:davhern@gmail.com).
-  - Linkedin - [https://www.linkedin.com/in/davidhparramon/](https://www.linkedin.com/in/davidhparramon/).
-    
-## Skills
-I have profesional experience in:
-  - Typescript
-  - React
-  - Next
-  - Gatsby
-  - Javascript
-  - Graphql
-  - Python
-  - Drupal
+---
 
-...And I'm working on improving my knowlege on...
-  - LLMs, Agents, Automatation, RAG, ...
-  - Cloud
-  - Docker
+## 🛠️ What I Build
 
-## Currently working on
-Some personal projects such as
-  - [Exit Routine](https://github.com/dhpar/exitroutine)
-  - [HTML Elements](https://github.com/dhpar/HTML-Elements)
-  - [Portfolio Framework](https://github.com/dhpar/portfolioFramework)
+### 🤖 AI & LLMs
+`MCP Integration` `RAG` `LLM APIs` `Prompt Engineering` `OpenAI` `Azure AI` `Google Generative AI` `Image Recognition`
 
-<!--
-**dhpar/dhpar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🖥️ Frontend
+`React` `Next.js` `TypeScript` `Tailwind` `Gatsby` `TanStack` `SASS` `CSS Modules`
 
-Here are some ideas to get you started:
+### ⚙️ Backend & APIs
+`Python` `FastAPI` `Node.js` `GraphQL` `REST` `Scrapy` `Express`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ☁️ Cloud & DevOps
+`Docker` `GCP` `AWS` `CI/CD` `Vercel`
+
+### 🗄️ Databases
+`PostgreSQL` `MongoDB` `Firebase`
+
+---
+
+## 🚀 Current Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [🧠 Local AI Assistant](https://github.com/dhpar/persAssis) | Privacy-aware, local-first AI assistant. Runs on consumer hardware, no cloud required. | React · FastAPI · Python |
+| [🔍 Jobseeker](https://github.com/dhpar/jobSeeker) | Scrapes and aggregates job listings, matches them against a candidate profile via API. | FastAPI · Scrapy · Python |
+| [🌐 Network Monitor](https://github.com/dhpar/network-diagnostics) | Locally-hosted tool for diagnosing and monitoring network issues with real-time visualization. | FastAPI · Python |
+| [👶 Exit Routine](https://github.com/dhpar/exitroutine) | Daily dashboard for parents — weather, schedule, and homework at a glance. | TypeScript · React |
+| [💼 Portfolio](https://github.com/dhpar/2026portfolio) | Personal portfolio with full CI/CD pipeline deployed on Vercel. | Next.js · TypeScript · Vercel |
+
+---
+
+## 📬 Let's Connect
+
+- 🌐 [Portfolio](https://2026portfolio-woad.vercel.app/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/davidhparramon/)
+- 📧 [davhern@gmail.com](mailto:davhern@gmail.com)
+
+---
+
+*Always happy to collaborate on open source projects, discuss ideas, or just say hi!*
