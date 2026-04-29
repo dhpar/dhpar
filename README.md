@@ -1,6 +1,6 @@
 # Welcome / Bienvenido / Benvingut! 👋
 
-My name is David and I'm a Front End Developer with many years of experience and knowledge on my back that still enjoys coding and learning a new thing every day. I love to work with smart people and learning as much as I can from them. 
+My name is David and I'm a Full-stack developer with AI experience and focus on Front end, with many years of experience and knowledge on my back that still enjoys coding and learning a new thing every day. I love to work with smart people and learning as much as I can from them. 
 
 I’m looking to collaborate on **Open Sourced projects, companies, individuals, ... I'll be glad to answer any question you might have!**.
 
