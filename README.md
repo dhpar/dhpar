@@ -1,15 +1,15 @@
 # Welcome / Bienvenido / Benvingut! 👋
 
-I'm **David**, a Senior Full-Stack Developer based in Edina, MN — with 10+ years of experience building React/Next.js applications, scalable SaaS products, and complex UI systems across the USA and EU markets.
+I'm **David**, a Senior Full-Stack Developer based in Edina, MN with 10+ years of experience building React/Next.js applications, scalable SaaS products, and complex UI systems across the USA and EU markets.
 
-Lately I've been going deep on **AI integrations, local-first architecture, and Python backend development** — building real tools, not just tutorials.
+Lately I've been going deep on **AI integrations, local-first architecture, and Python backend development** and building real tools, not just tutorials.
 
 ---
 
 ## 🛠️ What I Build
 
 ### 🤖 AI & LLMs
-`MCP Integration` `RAG` `LLM APIs` `Prompt Engineering` `OpenAI` `Azure AI` `Google Generative AI` `Image Recognition`
+`MCP Integration` `RAG` `LLM APIs` `Prompt Engineering` `Cloud Code` `Copilot CLI` `Image Recognition`
 
 ### 🖥️ Frontend
 `React` `Next.js` `TypeScript` `Tailwind` `Gatsby` `TanStack` `SASS` `CSS Modules`
@@ -21,7 +21,7 @@ Lately I've been going deep on **AI integrations, local-first architecture, and 
 `Docker` `GCP` `AWS` `CI/CD` `Vercel`
 
 ### 🗄️ Databases
-`PostgreSQL` `MongoDB` `Firebase`
+`PostgreSQL` `MongoDB`
 
 ---
 
