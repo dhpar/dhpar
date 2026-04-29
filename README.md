@@ -4,23 +4,23 @@ I'm **David**, a Senior Full-Stack Developer based in Edina, MN with 10+ years o
 
 Lately I've been going deep on **AI integrations, local-first architecture, and Python backend development** and building real tools, not just tutorials.
 
----
+
 
 ## 🛠️ What I Build
 
-### 🤖 AI & LLMs
+### AI & LLMs
 `MCP Integration` `RAG` `LLM APIs` `Prompt Engineering` `Cloud Code` `Copilot CLI` `Image Recognition`
 
-### 🖥️ Frontend
+### Frontend
 `React` `Next.js` `TypeScript` `Tailwind` `Gatsby` `TanStack` `SASS` `CSS Modules`
 
-### ⚙️ Backend & APIs
+### Backend & APIs
 `Python` `FastAPI` `Node.js` `GraphQL` `REST` `Scrapy` `Express`
 
-### ☁️ Cloud & DevOps
+### Cloud & DevOps
 `Docker` `GCP` `AWS` `CI/CD` `Vercel`
 
-### 🗄️ Databases
+### Databases
 `PostgreSQL` `MongoDB`
 
 ---
@@ -29,11 +29,11 @@ Lately I've been going deep on **AI integrations, local-first architecture, and 
 
 | Project | Description | Stack |
 |---|---|---|
-| [🧠 Local AI Assistant](https://github.com/dhpar/persAssis) | Privacy-aware, local-first AI assistant. Runs on consumer hardware, no cloud required. | React · FastAPI · Python |
-| [🔍 Jobseeker](https://github.com/dhpar/jobSeeker) | Scrapes and aggregates job listings, matches them against a candidate profile via API. | FastAPI · Scrapy · Python |
-| [🌐 Network Monitor](https://github.com/dhpar/network-diagnostics) | Locally-hosted tool for diagnosing and monitoring network issues with real-time visualization. | FastAPI · Python |
-| [👶 Exit Routine](https://github.com/dhpar/exitroutine) | Daily dashboard for parents — weather, schedule, and homework at a glance. | TypeScript · React |
-| [💼 Portfolio](https://github.com/dhpar/2026portfolio) | Personal portfolio with full CI/CD pipeline deployed on Vercel. | Next.js · TypeScript · Vercel |
+| [Local AI Assistant](https://github.com/dhpar/persAssis) | Privacy-aware, local-first AI assistant. Runs on consumer hardware, no cloud required. | React · FastAPI · Python |
+| [Jobseeker](https://github.com/dhpar/jobSeeker) | Scrapes and aggregates job listings, matches them against a candidate profile via API. | FastAPI · Scrapy · Python |
+| [Network Monitor](https://github.com/dhpar/network-diagnostics) | Locally-hosted tool for diagnosing and monitoring network issues with real-time visualization. | FastAPI · Python |
+| [Exit Routine](https://github.com/dhpar/exitroutine) | Daily dashboard for parents — weather, schedule, and homework at a glance. | TypeScript · React |
+| [Portfolio](https://github.com/dhpar/2026portfolio) | Personal portfolio with full CI/CD pipeline deployed on Vercel. | Next.js · TypeScript · Vercel |
 
 ---
 
